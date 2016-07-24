@@ -1,7 +1,5 @@
 # google-script-getdata
 
-See it working at [kerrianneellis.co.uk/chartwithdatabase](http://kerrianneellis.co.uk/chartwithdatabase/)
-
 A google script app to retrieve data from a spreadsheet in JSON form. 
 
 Works well with firewalls. 
